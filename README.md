@@ -136,4 +136,3 @@ This project demonstrates how to control the speed of a Lego EV3 robot using bra
 
 ---
 
-*End of README*
